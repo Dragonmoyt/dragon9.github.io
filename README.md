@@ -31,7 +31,5 @@ Welcome to **Classroom 70x (DYLAN'S CLASSROOM)**, a collection of web-based game
 ...and many more!  
 
 ## How to Deploy Locally  
-1. Clone this repository:  
-   ```sh
-  git clone https://github.com/dragonmoyt/dragonmoyt.github.io.git
+1. Clone this repository:  https://github.com/dragonmoyt/dragonmoyt.github.io.git
 
