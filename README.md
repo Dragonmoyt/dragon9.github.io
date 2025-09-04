@@ -1,6 +1,6 @@
 # Classroom 70x  
 
-Welcome to **Classroom 70x (Dragon9)**, a collection of web-based games and an emulator designed for easy access and entertainment.  
+Welcome to **Classroom 70x (DYLAN'S CLASSROOM)**, a collection of web-based games and an emulator designed for easy access and entertainment.  
 
 ## Features  
 - A variety of unblocked games available for instant play.  
